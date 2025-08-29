@@ -12,8 +12,6 @@ export default defineConfig({
         manifest: true,
         outDir: 'public/build',
     },
-<<<<<<< HEAD
+
 });
-=======
-});
->>>>>>> 95c4d7879849a3ffe95965445f454715f5f5aca0
+
